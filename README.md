@@ -53,7 +53,8 @@
 
 #### 训练 Loss 与 Accuracy 曲线
 <img width="681" height="335" alt="image" src="https://github.com/user-attachments/assets/b746353f-c4bb-4197-8eca-e352ea092573" />
-损失收敛情况：
+
+-损失收敛情况：
 Train Loss (红实线)：初始值较高（>2.0），在前 5-10 个 Epoch 内急剧下降，随后平稳收敛至 0.1 以下。这表明模型具有很强的拟合能力，能够快速学习车牌的特征分布。
 Val Loss (红虚线)：验证集损失紧随训练集下降，且未出现明显的反弹（Early Rising），说明模型未出现严重的过拟合现象，Dropout 和数据增强起到了良好的正则化作用。
 准确率变化：
