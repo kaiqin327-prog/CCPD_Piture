@@ -1,4 +1,4 @@
-<img width="691" height="618" alt="image" src="https://github.com/user-attachments/assets/1c0b5fa2-032b-4c80-9fee-ca8d55d71f02" /># 🚗 基于 LPRNet 和 STNet 的端到端车牌识别系统
+### 🚗 基于 LPRNet 和 STNet 的端到端车牌
 
 ## 📖 项目背景 (Background)
 随着智能交通系统（ITS）的发展，传统的车牌识别方法（涉及图像预处理、定位、分割、识别等分立步骤）在面对倾斜、模糊或光照不均的车牌时，往往因字符分割困难而遇到性能瓶颈。
